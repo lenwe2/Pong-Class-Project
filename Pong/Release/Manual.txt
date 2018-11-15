@@ -1,0 +1,8 @@
+This is how you play my game:
+W key to move Player 1's paddle up
+S key to move Player 1's paddle down
+
+Up Arrow key to move Player 2's paddle up
+Down Arrow key to move Player 2's paddle down
+
+The game ends when either player reaches 10 for their score.
